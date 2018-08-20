@@ -75,6 +75,7 @@ target/
 
 .bash_logout
 .bashrc
+.bash_history
 .local/
 .conda/
 .ipython/
