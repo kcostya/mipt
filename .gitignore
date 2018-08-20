@@ -72,6 +72,15 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+
+.bash_logout
+.bashrc
+.local/
+.conda/
+.ipython/
+.profile
+.wget-hsts
+
 # pyenv
 .python-version
 
