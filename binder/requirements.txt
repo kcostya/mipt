@@ -6,4 +6,4 @@ seaborn
 sklearn
 xgboost
 tqdm
-gensim
+gensim==2.3.0
