@@ -1,0 +1,24 @@
+Log file created at: 2018/09/23 17:02:55
+Running on machine: instance-1
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0923 17:02:55.798126  7700 c_interface.cc:127] Logging enabled to .
+I0923 17:02:55.798285  7700 c_interface.cc:128] BigARTM version: v0.9.0
+I0923 17:02:55.798311  7700 c_interface.cc:271] Pass MasterModelConfig: topic_name_size=0, score_config_size=1, num_processors=0, pwt_name=pwt, nwt_name=nwt, num_document_passes=0, reuse_theta=no, cache_theta=no, opt_for_avx=yes, disk_cache_path= to ArtmCreateMasterModel
+I0923 17:02:55.798353  7700 c_interface.cc:274] Creating MasterModel (id=1)...
+I0923 17:02:55.798864  7700 collection_parser.cc:557] CollectionParserConfig.num_threads is automatically set to 1
+I0923 17:02:56.288360  7700 c_interface.cc:375] Pass b935e18b-e93b-4410-a890-42624621f424 to MN4artm4core15MasterComponentEFvRKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE
+I0923 17:02:56.288520  7700 c_interface.cc:389] Pass GatherDictionaryArgs: dictionary_target_name=b935e18b-e93b-4410-a890-42624621f424, data_path=school_batches, symmetric_cooc_values=0 to MN4artm4core15MasterComponentEFvRKNS_20GatherDictionaryArgsEE
+I0923 17:02:56.288655  7700 dictionary_operations.cc:261] Found 5 batches in 'school_batches' folder
+I0923 17:02:56.322585  7700 dictionary_operations.cc:325] Find 16099 unique tokens in 476 items
+I0923 17:02:56.343278  7700 dictionary_operations.cc:589] Dictionary name='b935e18b-e93b-4410-a890-42624621f424' contains entries: text:16099; 
+I0923 17:17:25.643546  7700 c_interface.cc:271] Pass MasterModelConfig: topic_name_size=0, score_config_size=1, num_processors=0, pwt_name=pwt, nwt_name=nwt, num_document_passes=0, reuse_theta=no, cache_theta=no, opt_for_avx=yes, disk_cache_path= to ArtmCreateMasterModel
+I0923 17:17:25.643601  7700 c_interface.cc:274] Creating MasterModel (id=2)...
+I0923 17:17:25.643793  7700 c_interface.cc:375] Pass dictionary to MN4artm4core15MasterComponentEFvRKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE
+I0923 17:17:25.643887  7700 c_interface.cc:389] Pass GatherDictionaryArgs: dictionary_target_name=dictionary, data_path=school_batches, symmetric_cooc_values=0 to MN4artm4core15MasterComponentEFvRKNS_20GatherDictionaryArgsEE
+I0923 17:17:25.643959  7700 dictionary_operations.cc:261] Found 5 batches in 'school_batches' folder
+I0923 17:17:25.678853  7700 dictionary_operations.cc:325] Find 16099 unique tokens in 476 items
+I0923 17:17:25.703014  7700 dictionary_operations.cc:589] Dictionary name='dictionary' contains entries: text:16099; 
+I0923 18:12:55.159152  7700 c_interface.cc:375] Pass dictionary to MN4artm4core15MasterComponentEFvRKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE
+I0923 18:12:55.162971  7700 c_interface.cc:339] Disposing MasterComponent (id=2)...
+I0923 18:12:55.163233  7700 c_interface.cc:375] Pass b935e18b-e93b-4410-a890-42624621f424 to MN4artm4core15MasterComponentEFvRKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE
+I0923 18:12:55.166482  7700 c_interface.cc:339] Disposing MasterComponent (id=1)...

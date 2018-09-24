@@ -1,0 +1,41 @@
+Log file created at: 2018/09/24 18:06:00
+Running on machine: instance-1
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0924 18:06:00.562765  2949 helpers.cc:221] File already exists: batches/aaaaaa.batch
+W0924 18:06:00.617976  2949 helpers.cc:221] File already exists: batches/aaaaab.batch
+W0924 18:06:00.683169  2949 helpers.cc:221] File already exists: batches/aaaaac.batch
+W0924 18:06:00.745913  2949 helpers.cc:221] File already exists: batches/aaaaad.batch
+W0924 18:06:00.806182  2949 helpers.cc:221] File already exists: batches/aaaaae.batch
+W0924 18:06:00.877889  2949 helpers.cc:221] File already exists: batches/aaaaaf.batch
+W0924 18:06:00.981441  2949 helpers.cc:221] File already exists: batches/aaaaag.batch
+W0924 18:06:01.067047  2949 helpers.cc:221] File already exists: batches/aaaaah.batch
+W0924 18:06:01.135581  2949 helpers.cc:221] File already exists: batches/aaaaai.batch
+W0924 18:06:01.287364  2949 helpers.cc:221] File already exists: batches/aaaaaj.batch
+W0924 18:06:01.599498  2949 helpers.cc:221] File already exists: batches/aaaaak.batch
+W0924 18:06:01.922930  2949 helpers.cc:221] File already exists: batches/aaaaal.batch
+W0924 18:06:02.275646  2949 helpers.cc:221] File already exists: batches/aaaaam.batch
+W0924 18:06:02.573206  2949 helpers.cc:221] File already exists: batches/aaaaan.batch
+W0924 18:06:02.825578  2949 helpers.cc:221] File already exists: batches/aaaaao.batch
+W0924 18:06:03.091116  2949 helpers.cc:221] File already exists: batches/aaaaap.batch
+W0924 18:06:03.144654  2949 helpers.cc:221] File already exists: batches/aaaaaq.batch
+W0924 18:06:03.157220  2949 helpers.cc:221] File already exists: batches/aaaaar.batch
+W0924 18:07:08.304790  2933 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0924 19:58:18.481528  3550 helpers.cc:221] File already exists: batches/aaaaaa.batch
+W0924 19:58:18.543805  3550 helpers.cc:221] File already exists: batches/aaaaab.batch
+W0924 19:58:18.612100  3550 helpers.cc:221] File already exists: batches/aaaaac.batch
+W0924 19:58:18.679409  3550 helpers.cc:221] File already exists: batches/aaaaad.batch
+W0924 19:58:18.743764  3550 helpers.cc:221] File already exists: batches/aaaaae.batch
+W0924 19:58:18.828238  3550 helpers.cc:221] File already exists: batches/aaaaaf.batch
+W0924 19:58:18.949648  3550 helpers.cc:221] File already exists: batches/aaaaag.batch
+W0924 19:58:19.063542  3550 helpers.cc:221] File already exists: batches/aaaaah.batch
+W0924 19:58:19.143347  3550 helpers.cc:221] File already exists: batches/aaaaai.batch
+W0924 19:58:19.311312  3550 helpers.cc:221] File already exists: batches/aaaaaj.batch
+W0924 19:58:19.647621  3550 helpers.cc:221] File already exists: batches/aaaaak.batch
+W0924 19:58:19.979835  3550 helpers.cc:221] File already exists: batches/aaaaal.batch
+W0924 19:58:20.335798  3550 helpers.cc:221] File already exists: batches/aaaaam.batch
+W0924 19:58:20.636785  3550 helpers.cc:221] File already exists: batches/aaaaan.batch
+W0924 19:58:20.883647  3550 helpers.cc:221] File already exists: batches/aaaaao.batch
+W0924 19:58:21.107020  3550 helpers.cc:221] File already exists: batches/aaaaap.batch
+W0924 19:58:21.161366  3550 helpers.cc:221] File already exists: batches/aaaaaq.batch
+W0924 19:58:21.173353  3550 helpers.cc:221] File already exists: batches/aaaaar.batch
+W0924 19:59:27.864545  2933 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
