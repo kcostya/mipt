@@ -7,3 +7,4 @@ sklearn
 xgboost
 tqdm
 gensim==2.3.0
+statsmodels
