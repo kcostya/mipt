@@ -112,3 +112,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# tensorflow
+/data-analysis-applications/week-2-neural-networks/assignment-1-tensorflow/
